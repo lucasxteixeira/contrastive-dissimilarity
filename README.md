@@ -30,7 +30,7 @@ We employed 11 databases from Keel repository and 2 databases from UC Irvine Mac
 
 ## Results
 
-In this analysis, we conduct an extensive assessment contrasting our innovative contrastive dissimilarity approach with established machine learning techniques, particularly focusing on their F1-score metrics.
+In this analysis, we conduct an extensive assessment contrasting our innovative contrastive dissimilarity approach with established machine learning techniques, particularly focusing on their F1-score metrics. The table below present our main findings, encompassing the results from our proposed contrastive dissimilarity space (CS) and vector (CV), traditional models (the best of RF, SVM, or NB, abbreviated as Tradt), as well as classic dissimilarity space and vector (DS and DV, respectively).
 
 | Database     | Method          | 10%  | 20%  | 30%  | 40%  | 50%  | 60%  | 70%  | 80%  | 90%  | 100%  |
 |--------------|-----------------|------|------|------|------|------|------|------|------|------|-------|
