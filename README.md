@@ -144,3 +144,21 @@ In this analysis, we conduct an extensive assessment contrasting our innovative 
 This study introduced a novel method called contrastive dissimilarity, which enhances the classification of imbalanced tabular datasets by combining metric learning with a task-specific dissimilarity function. The approach demonstrated superior performance, particularly in data-scarce scenarios, consistently outperforming traditional machine learning models.
 
 ## Citation
+
+```
+@Article{Teixeira2024,
+  author={Teixeira, Lucas O.
+  and Bertolini, Diego
+  and Oliveira, Luiz S.
+  and Cavalcanti, George D. C.
+  and Costa, Yandre M. G.},
+  title={Contrastive dissimilarity: optimizing performance on imbalanced and limited data sets},
+  journal={Neural Computing and Applications},
+  year={2024},
+  month={Aug},
+  day={12},
+  issn={1433-3058},
+  doi={10.1007/s00521-024-10286-z},
+  url={https://doi.org/10.1007/s00521-024-10286-z}
+}
+```
